@@ -1,0 +1,37 @@
+<svg width="680" height="600" viewBox="0 0 680 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M2 1L8 5L2 9" fill="none" stroke="#64748b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</marker>
+</defs>
+<style>
+.th{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:16px;font-weight:600;fill:#f1f5f9;}
+.ts{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:13px;fill:#94a3b8;}
+.arr{stroke:#64748b;stroke-width:1.5;}
+rect.box{rx:8;stroke-width:1.5;}
+</style>
+
+<rect class="box" x="210" y="40" width="260" height="56" fill="rgba(71,85,105,0.16)" stroke="#64748b"/>
+<text class="th" x="340" y="60" text-anchor="middle" dominant-baseline="central">Company representative</text>
+<text class="ts" x="340" y="78" text-anchor="middle" dominant-baseline="central">Logs into the portal</text>
+<line x1="340" y1="96" x2="340" y2="156" class="arr" marker-end="url(#arrow)"/>
+
+<rect class="box" x="210" y="156" width="260" height="56" fill="rgba(59,130,246,0.14)" stroke="#3b82f6"/>
+<text class="th" x="340" y="176" text-anchor="middle" dominant-baseline="central">Online access portal</text>
+<text class="ts" x="340" y="194" text-anchor="middle" dominant-baseline="central">Self-service request platform</text>
+<line x1="340" y1="212" x2="340" y2="272" class="arr" marker-end="url(#arrow)"/>
+
+<rect class="box" x="210" y="272" width="260" height="56" fill="rgba(20,184,166,0.14)" stroke="#14b8a6"/>
+<text class="th" x="340" y="292" text-anchor="middle" dominant-baseline="central">Project &amp; permit selection</text>
+<text class="ts" x="340" y="310" text-anchor="middle" dominant-baseline="central">Choose project and permit type</text>
+<line x1="340" y1="328" x2="340" y2="388" class="arr" marker-end="url(#arrow)"/>
+
+<rect class="box" x="210" y="388" width="260" height="56" fill="rgba(245,158,11,0.14)" stroke="#f59e0b"/>
+<text class="th" x="340" y="408" text-anchor="middle" dominant-baseline="central">Approval workflow</text>
+<text class="ts" x="340" y="426" text-anchor="middle" dominant-baseline="central">Multi-level review process</text>
+<line x1="340" y1="444" x2="340" y2="504" class="arr" marker-end="url(#arrow)"/>
+
+<rect class="box" x="210" y="504" width="260" height="56" fill="rgba(34,197,94,0.14)" stroke="#22c55e"/>
+<text class="th" x="340" y="524" text-anchor="middle" dominant-baseline="central">Access permit issued</text>
+<text class="ts" x="340" y="542" text-anchor="middle" dominant-baseline="central">Facility entry authorized</text>
+</svg>

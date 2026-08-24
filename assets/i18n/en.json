@@ -1,0 +1,266 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.ItemArticles": "Articles",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Jose_Hernandez_English.pdf",
+  "Loading": "Loading...",
+
+  "Banner.Pretitle": "Hello! My name is",
+"Banner.Description": "With <span class='underline'>+9 years of experience</span>, I specialize in building <span class='underline'>robust systems</span>, <span class='underline'>intuitive interfaces</span>, and <span class='underline'>innovative solutions</span> that elevate the web. My commitment lies in crafting and optimizing <span class='underline'>clean</span>, <span class='underline'>reusable</span>, and <span class='underline'>scalable code</span> using <span class='underline'>.NET</span> and <span class='underline'>Angular</span>, while adhering to proven best practices and development standards. I am also available to collaborate as part of a team or to take on <span class='underline'>freelance projects</span> <span class='underline'>remotely</span> across the <span class='underline'>Arab world</span> and <span class='underline'>Gulf region</span>.",
+  "Banner.ActionBtn": "Contact Me",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "With <span class='underline'>+9 years of experience</span> I specialize in building systems, interfaces, and innovative solutions that elevate the web. My commitment lies in crafting and optimizing clean, reusable, and scalable code using <span class='underline'>.NET</span> and <span class='underline'>Angular</span>, while adhering to proven best practices and development standards.",
+    "I also hold the <span class='underline'>Microsoft Certified Trainer (MCT)</span> certification.",
+    "I'm available to offer my services as part of a team or to work on freelance projects <span class='underline'>remotely</span> across the <span class='underline'>Arab</span> and <span class='underline'>Gulf region</span>."
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "RyyanTech",
+      "Title": "Senior Full-Stack Developer ( Fulltime )",
+      "Date": "07/2025 - Present | Company based in Qatar| Remote",
+      "Description": [
+        "Participated in building a SaaS project for restaurant and cafe management",
+        "Participated in designing the architecture and database design",
+        "Restructured several modules in collaboration with domain experts and business analysts",
+        "I implemented the business requirements for several modules using .NET and Angular.",
+        "Communicated and coordinated with third-party service providers, such as payment gateways and external ordering service providers"
+      ]
+    },
+    {
+      "Tab": "DataFuture",
+      "Title": "Senior Full-Stack Developer ( Freelance )",
+      "Date": "02/2025 - 06/2025 | Company based in KSA | Remote",
+      "Description": [
+        "Participated in building the Ithraa Alkhair Hajj App, integrated with the Saudi Ministry of Hajj and Umrah (.NET 9)",
+        "Participated in building the Ithraa Wristbands App, used to connect and manage pilgrims' bracelets (.NET 9)",
+        "Participated in building the Taskeen Hajj Platform, used to manage all stages of accommodation during the Hajj season (.NET 9)"
+      ]
+    },
+    {
+      "Tab": "SmartSolutions",
+      "Title": "Senior Full-Stack Developer ( Fulltime )",
+      "Date": "11/2022 - 01/2025 | Company based in KSA | Remote",
+      "Description": [
+        "Participated in building multiple systems for a government authority in the Kingdom of Saudi Arabia (KSA), including internal and external portals",
+        "Contributed to developing permit-granting systems and recruitment/job application systems",
+        "Integrated with official government services for citizen data verification",
+        "Built using .NET and Angular"
+      ]
+    },
+    {
+      "Tab": "UISCom",
+      "Title": "Full-Stack Developer ( Freelance )",
+      "Date": "04/2020 - 02/2021 | Company based in Egypt | On-site",
+      "Description": [
+        "Worked on building a Human Resources Management System (HRMS)",
+        "Participated in business analysis and domain expert meetings",
+        "Contributed to system development, choosing the architecture, and dividing it into modules (e.g., Attendance Module, Leave Management, Payroll Calculation, and others)",
+        "Participated in Designed the database"
+      ]
+    },
+    {
+      "Tab": "SmartSoft",
+      "Title": ".NET Software Developer ( Fulltime )",
+      "Date": " 01/2016 -  01/2020 | Company based in Egypt | On-site",
+      "Description": [
+        "Participated in building multiple systems within the company",
+        "Contributed to a Hospital Management System (ERP)",
+        "Contributed to a Human Resources Management System (HRMS)",
+        "Contributed to Inventory/Warehouse Management Systems"
+      ]
+    },
+    {
+      "Tab": "NEN",
+      "Title": ".NET MCT Trainer (Part-time) ",
+      "Date": "08/2015 - 12/2015",
+      "Description": [
+       "Delivered training courses in the .NET Framework and C# programming language"
+      ]
+    },
+    {
+      "Tab": "ALC",
+      "Title": "Microsoft Instractor",
+      "Date": "02/2008 - 04/2013",
+      "Description": [
+        "Provided training for trainees pursuing the ICDL and MOS certificates."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Restaurant & Cafe SaaS Platform",
+      "Description": "A web application developed for a Qatari company, designed as a SaaS platform for restaurant management, available on a monthly or annual subscription basis. The system covers order management with integration to the Rafeeq Platform for receiving external orders, as well as integration with the My Fatoorah payment gateway to provide online payment services for customers. It also includes features for coupons, loyalty points, and offers provided by each restaurant, along with a dedicated section for accounting and reporting.",
+      "imgs": [
+        "assets/images/photo/wj.jpg",
+        "assets/images/photo/wj1.JPG",
+        "assets/images/photo/wj2.JPG",
+        "assets/images/photo/wj3.JPG",
+        "assets/images/photo/wj5.JPG"
+      ],
+      "Technologies": [".NET", "Angular", "SASS", "PrimeNG","SQL Server"]
+    },
+    {
+      "Title": "Self-order System",
+      "Description": "A self-service ordering system that enables customers to easily place their food orders, whether dining in or for takeaway. The system allows order tracking by scanning the table's QR code, with the option to reorder or complete payment electronically.",
+      "imgs": [
+        "assets/images/photo/s1.JPG",
+        "assets/images/photo/s2.JPG",
+        "assets/images/photo/s3.JPG",
+        "assets/images/photo/S5.JPG",
+        "assets/images/photo/s6.JPG"
+      ],
+        "Technologies": [".NET", "Angular", "SASS", "PrimeNG", "SQL Server"]
+    },
+    {
+      "Title": "Survey Management System",
+      "Description": "A survey management system developed for a Saudi company, enabling dynamic management of surveys through a control panel. The system offers a range of features, including easy survey creation, the ability to reuse questions from previous surveys, full survey duplication with the option for further editing, and easy publishing across different portals with various themes. It also allows users to review survey results and display reports through graphical charts.",
+      "imgs": [
+        "assets/images/photo/sr20.JPG",
+        "assets/images/photo/sr21.JPG",
+        "assets/images/photo/sr22.JPG",
+        "assets/images/photo/sr23.JPG",
+        "assets/images/photo/sr1.JPG",
+        "assets/images/photo/sr2.JPG"
+        
+      ],
+        "Technologies": [".NET", "Angular","PrimeNG","SQL Server"]
+    },
+     {
+       "Title": "Permits Portal Management System",
+      "Description": "An integrated project delivered for a Saudi authority to manage entry permits for personnel and vehicles. The system allows company representatives to register, submit new requests, and track their status through an online portal, linking each permit to specific projects. Requests follow a structured workflow with multi-level approvals, role-based dashboards, and automated progression between steps. Authorized users can review, approve, reject, or print permits, while the platform maintains detailed audit trails, request histories, and reporting on active and expired permits. This ensures compliance, transparency, and efficient handling of sensitive access procedures.",
+     "imgs": [
+        "assets/images/photo/pr1.svg",
+        "assets/images/photo/pr2.svg",
+        "assets/images/photo/pr3.svg",
+        "assets/images/photo/pr5.svg",
+        "assets/images/photo/pr6.svg",
+        "assets/images/photo/pr8.svg"
+      ],
+   "Technologies": [".NET WebAPI", "Angular", "PrimeNG","SQL Server"]
+    },
+
+     {
+      "Title": "Recruitment Requests Management System",
+      "Description": "An integrated project delivered for a Saudi authority to manage job applications. Provides an electronic portal for posting vacancies, submitting applications, conducting online tests, tracking results, multi-level approvals, interviews, and sending SMS notifications.",
+      "imgs": [
+        "assets/images/photo/job1.svg",
+        "assets/images/photo/job2.svg",
+        "assets/images/photo/job3.svg",
+        "assets/images/photo/job5.svg",
+        "assets/images/photo/job6.svg",
+        "assets/images/photo/job8.svg"
+      ],
+       "Technologies": [".NET WebAPI", "Angular", "PrimeNG","SQL Server"]
+    },
+    {
+      "Title": "HR Management System",
+      "Description": "System settings & configuration, Organizational structure management, Institution regulations & policies, Attendance & departure tracking, External tasks/assignments management, Leave management, Salaries & financial transactions (loans, advances, bonuses, deductions, payment vouchers), Wage increments & employee allowances etc ..",
+      "imgs": [
+        "assets/images/photo/hr8.JPG",
+        "assets/images/photo/hr5.JPG",
+        "assets/images/photo/hr1.JPG",
+        "assets/images/photo/hr2.JPG",
+        "assets/images/photo/hr3.JPG",
+        "assets/images/photo/hr6.JPG"
+           
+      ],
+      "Technologies": [".NET MVC ", "SQL Server"]
+    },
+      {
+      "Title": "Pharmacy Management System",
+      "Description": "I independently developed a freelance project for managing pharmacies and warehouses, covering medicine stock, prescriptions, supplier records, billing, and inventory tracking through efficient processes.",
+      "imgs": [
+        "assets/images/photo/ph0.JPG",
+        "assets/images/photo/ph1.JPG",
+        "assets/images/photo/ph2.JPG",
+        "assets/images/photo/ph3.JPG",
+        "assets/images/photo/ph5.JPG",
+        "assets/images/photo/ph6.JPG"
+           
+      ],
+      "Technologies": [".NET MVC ", "SQL Server"]
+    },
+      {
+      "Title": "ATTA Management System",
+      "Description": "I independently developed a freelance project for managing a psychological consultation center, covering patient bookings, session scheduling, case follow-up, specialized services, and financial and administrative reporting.",
+      "imgs": [
+        "assets/images/photo/att1.JPG",
+        "assets/images/photo/att2.JPG",
+        "assets/images/photo/att3.JPG",
+        "assets/images/photo/att5.JPG",
+        "assets/images/photo/att6.JPG",
+        "assets/images/photo/att8.JPG"
+           
+      ],
+      "Technologies": [".NET MVC ", "SQL Server"]
+    }
+ 
+   
+   
+   
+  ],
+
+  
+  "OtherProjects.Title": "More Projects",
+  "OtherProjects.Projects": [
+    
+    {
+      "Title": "RESUME & DIGITAL CARD ",
+      "Description": "An integrated project delivered for a Saudi authority. Enables multi-level approvals, electronic CV preparation, personal accounts, digital card issuance, QR sharing, and access for government bodies, universities, and companies with detailed reporting.",
+      "imgs": ["assets/images/hands-game.png"],
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": [" .NET Web API , Angular , SQL Server"]
+    },
+    {
+      "Title": "INNOVATION PORTAL",
+      "Description": "A project developed for a Saudi authority to manage innovation ideas, enabling electronic submission, digital transformation workflows, multi-level approvals, committee reviews, departmental feedback, and transparent tracking across all stages.",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": [" .NET Web API , Angular , SQL Server"]
+    },
+    {
+      "Title": "COMPLAINTS MANAGEMENT",
+      "Description": "A project developed for a Saudi entity to manage complaints and reports with dynamic workflow automation, multi-level approvals, code-based tracking, permissions management, and notifications via inquiry or email.",
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+    "Technologies": [" .NET Web API , Angular , SQL Server"]
+    },
+    {
+      "Title": "DYNAMIC FORM & WORKFLOW",
+      "Description": "A project developed for a Saudi company enabling dynamic form creation with Angular framework, customizable fields, workflow integration, multi-level approvals, and automated procedures serving organizational processes and diverse project ideas.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+        "Technologies": [" .NET Web API , Angular , SQL Server"]
+    },
+    {
+      "Title": "SMART HOSPITAL",
+      "Description": "I collaborated with an Egyptian software company team to develop a hospital management system handling clinics, inpatient care, room booking, patient records, and billing through efficient processes.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
+      "Technologies": [".NET MVC " , "SQL Server"]
+    },
+    {
+      "Title": "PHARMACY & INVENTORY SYS",
+      "Description": "I independently developed a freelance project for managing pharmacies and warehouses, covering medicine stock, prescriptions, supplier records, billing, and inventory tracking through efficient processes.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
+      "Technologies": [".NET MVC " ,"SQL Server"]
+    }
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Ready to Collaborate !",
+  "Contact.Content": "I am currently available for full‑time roles as well as freelance collaborations, ready to contribute my expertise to impactful projects.",
+  "Contact.Btn": "Contact Me"
+}

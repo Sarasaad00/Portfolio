@@ -1,0 +1,24 @@
+<svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
+<style>
+.th{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:16px;font-weight:600;fill:#f1f5f9;}
+.ts{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:13px;fill:#94a3b8;}
+</style>
+
+<rect x="60" y="30" width="560" height="240" rx="20" fill="rgba(71,85,105,0.10)" stroke="#64748b" stroke-width="1.5"/>
+<text class="th" x="90" y="60" dominant-baseline="central">Request details page</text>
+
+<rect x="90" y="90" width="160" height="150" rx="12" fill="rgba(59,130,246,0.14)" stroke="#3b82f6" stroke-width="1.5"/>
+<text class="th" x="170" y="120" text-anchor="middle" dominant-baseline="central">Action history</text>
+<text class="ts" x="170" y="140" text-anchor="middle" dominant-baseline="central">Approvals, rejections</text>
+<text class="ts" x="170" y="158" text-anchor="middle" dominant-baseline="central">with notes and dates</text>
+
+<rect x="260" y="90" width="160" height="150" rx="12" fill="rgba(20,184,166,0.14)" stroke="#14b8a6" stroke-width="1.5"/>
+<text class="th" x="340" y="120" text-anchor="middle" dominant-baseline="central">Work locations</text>
+<text class="ts" x="340" y="140" text-anchor="middle" dominant-baseline="central">Areas requiring</text>
+<text class="ts" x="340" y="158" text-anchor="middle" dominant-baseline="central">access authorization</text>
+
+<rect x="430" y="90" width="160" height="150" rx="12" fill="rgba(245,158,11,0.14)" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="th" x="510" y="120" text-anchor="middle" dominant-baseline="central">Print log</text>
+<text class="ts" x="510" y="140" text-anchor="middle" dominant-baseline="central">Print request</text>
+<text class="ts" x="510" y="158" text-anchor="middle" dominant-baseline="central">count and dates</text>
+</svg>

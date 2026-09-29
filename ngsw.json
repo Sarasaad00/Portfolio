@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790694850089,
+  "timestamp": 1790695118074,
   "index": "/Portfolio/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/Portfolio/index.html",
-        "/Portfolio/main-YGA5T3D3.js",
+        "/Portfolio/main-B4N6YQZ3.js",
         "/Portfolio/manifest.webmanifest",
         "/Portfolio/polyfills-CQZK2RGY.js",
         "/Portfolio/styles-7T62FD6B.css"
@@ -405,8 +405,8 @@
     "/Portfolio/assets/images/vasaviation/capture4.png": "0678636e864f732e2c4ed8ac39f365f1dbfe7413",
     "/Portfolio/assets/images/vasaviation/capture5.png": "0d2c4b52a52de08ead007aa5e4ea28c2cf45ca45",
     "/Portfolio/assets/lotties/loader.json": "2766ab688f8b10bdaca3c8215141db5956339b49",
-    "/Portfolio/index.html": "0756380542491a43a8e917e6e20a5c98f6d5bb9c",
-    "/Portfolio/main-YGA5T3D3.js": "07f897f510933ce99ba17674abeb7b5ad3cba141",
+    "/Portfolio/index.html": "4759227c0be60317609bd835f9a38149c1a503bf",
+    "/Portfolio/main-B4N6YQZ3.js": "746ba4d473d5f6117487240790de72ecee83d728",
     "/Portfolio/manifest.webmanifest": "d9e92565b3be092fe728cd4c269af5e866223f8f",
     "/Portfolio/polyfills-CQZK2RGY.js": "bf02eddaeea9a385afd1d56994168bba943fc820",
     "/Portfolio/styles-7T62FD6B.css": "fc7f1bd2b241df8368f34fa61e1346d681d72d4d"
